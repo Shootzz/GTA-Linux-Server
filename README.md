@@ -8,4 +8,4 @@ This is a script that I used and share with my friends to set up a GTA server (F
 
 ## Usage
 
-After creating your user in linux for GTA, you can use this script from home directory of your user to install GTA server.
+After creating your user in linux for GTA, you can use "install.sh" script from home directory of your user to install GTA server. Then, you can start your server by using "start.sh" script.
